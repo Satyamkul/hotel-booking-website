@@ -15,6 +15,7 @@ html {
   html::-webkit-scrollbar-thumb {
     background: #05013a;
   }
+  /* scroll bar css end */
 /********** Template CSS **********/
 :root {
     --primary: #e71227;
