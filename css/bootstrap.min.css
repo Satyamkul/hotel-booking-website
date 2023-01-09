@@ -528,6 +528,10 @@ progress {
   font-size: 0.875em;
   color: #6c757d;
 }
+.container-fluid.bg-dark.px-0 {
+    position: fixed;
+    z-index: 2;
+}
 .container,
 .container-fluid,
 .container-sm,
@@ -3681,6 +3685,7 @@ fieldset:disabled .btn {
   margin-right: 1rem;
   font-size: 1.25rem;
   white-space: nowrap;
+  
 }
 .navbar-nav {
   display: flex;
@@ -3688,6 +3693,7 @@ fieldset:disabled .btn {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
+  align-items:center;
 }
 .navbar-nav .nav-link {
   padding-right: 0;
