@@ -416,9 +416,9 @@ html::-webkit-scrollbar-thumb {
   position: relative;
   z-index: 1;
 }
-/* News Letter css start*/
+/*join us css start*/
 .btn2 {
-  width: 300px;
+  width: 250px;
   padding: 0.8em 1.8em;
   border: 3px solid #ff0000;
   border-radius: 5px;
@@ -462,7 +462,7 @@ html::-webkit-scrollbar-thumb {
   color: rgb(255, 255, 255);
 }
 
-/* News letter css end*/
+/* Join us css end*/
 .footer {
   position: relative;
   margin-top: -110px;
