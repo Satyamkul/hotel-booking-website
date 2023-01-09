@@ -528,7 +528,7 @@ progress {
   font-size: 0.875em;
   color: #6c757d;
 }
-.container-fluid.bg-dark.px-0 {
+.container-fluid .bg-dark .px-0 {
     position: fixed;
     z-index: 2;
 }
